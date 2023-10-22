@@ -26,12 +26,6 @@
 
 <script>
 export default {
-    name: "HomeMainContent",
-    data() {
-        return {
-            nameCreator: "Brayann",
-            nameApp: "Ineed"
-        }
-    }
+    name: "HomeMainContent"
 }
 </script>
