@@ -1,9 +1,6 @@
 # ineed-app
-<<<<<<< HEAD
-Frontend em VueJS 3 do projeto pessoal Ineed
-=======
 
-This template should help get you started developing with Vue 3 in Vite.
+VueJS 3 frontend for the app "Ineed"
 
 ## Recommended IDE Setup
 
@@ -58,4 +55,3 @@ npm run test:e2e
 ```sh
 npm run lint
 ```
->>>>>>> backup-master
