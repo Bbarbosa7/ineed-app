@@ -15,14 +15,12 @@
                 </li>
             </ul>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 user-actions" role="navigation">
-                <li class="nav-item login-button">
-                    <a class="nav-link active" href="#">Login</a>
+                <li class="nav-item">
+                    <router-link to="/login" class="nav-link">Login</router-link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Register</a>
+                    <router-link to="/register" class="nav-link">Register</router-link>
                 </li>
-
-
             </ul>
         </div>
     </nav>
@@ -34,6 +32,7 @@
     padding: 0 0 0 80%;
 }
 </style>
+
 <script>
 export default {
     name: "AppHeader"
